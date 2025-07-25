@@ -1,0 +1,20 @@
+{
+    "parameters": [
+        {
+            "expr": "30",
+            "name": "w",
+            "value": "30"
+        },
+        {
+            "expr": "10",
+            "name": "d",
+            "value": "10"
+        },
+        {
+            "expr": "2*62.5",
+            "name": "l",
+            "value": "125"
+        }
+    ],
+    "version": 1
+}
