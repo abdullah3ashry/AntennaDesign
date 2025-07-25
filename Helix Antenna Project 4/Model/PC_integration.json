@@ -1,0 +1,69 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "Linear_Spiral_cst_coil_h",
+         "type": "float",
+         "value": 58.05
+      },
+      {
+         "name": "Linear_Spiral_cst_coil_ra",
+         "type": "float",
+         "value": 8.05
+      },
+      {
+         "name": "Linear_Spiral_cst_coil_ri",
+         "type": "float",
+         "value": 8.05
+      },
+      {
+         "name": "Linear_Spiral_cst_coil_phi",
+         "type": "float",
+         "value": 14.0
+      },
+      {
+         "name": "Linear_Spiral_cst_coil_N",
+         "type": "float",
+         "value": 4.5
+      },
+      {
+         "name": "Linear_Spiral_cst_coil_orientation",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "Linear_Spiral_cst_coil_segmentation",
+         "type": "float",
+         "value": 0.0
+      },
+      {
+         "name": "S",
+         "type": "float",
+         "value": 12.9
+      },
+      {
+         "name": "Wire_radius",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "GND",
+         "type": "string",
+         "value": "56.9/2"
+      },
+      {
+         "name": "Coaxial_radius",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "Teflon_radius",
+         "type": "float",
+         "value": 6.7
+      }
+   ],
+   "outputVariables": []
+}

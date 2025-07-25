@@ -1,0 +1,13 @@
+{
+   "Author": "Abdullah",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Time Domain",
+   "Last Solver Type Abb": "t",
+   "Mesh Cells": "1,900,800",
+   "Mesh Type": "Hexahedral",
+   "Modeler Unique ID": "5:helix antenna project 4.cst?63ce13c056717554d5b680d8d75fbfc0?37923:numberofparameters=12:port=1>mode=1>zre=0>zim=0:::coaxial_radius?gnd?linear_spiral_cst_coil_n?linear_spiral_cst_coil_h?linear_spiral_cst_coil_orientation?linear_spiral_cst_coil_phi?linear_spiral_cst_coil_ra?linear_spiral_cst_coil_ri?linear_spiral_cst_coil_segmentation?s?teflon_radius?wire_radius",
+   "ProjectVersion": "'# MWS Version: Version 2024.1 - Oct 16 2023 - ACIS 33.0.1 -",
+   "Results": "Time Domain: S-Parameter",
+   "Version": "3"
+}

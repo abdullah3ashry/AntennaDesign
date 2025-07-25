@@ -1,0 +1,72 @@
+{
+    "parameters": [
+        {
+            "descr": "Coil's height",
+            "expr": "58.05",
+            "name": "Linear_Spiral_cst_coil_h",
+            "value": "58.05"
+        },
+        {
+            "descr": "Coil's major radius",
+            "expr": "8.05",
+            "name": "Linear_Spiral_cst_coil_ra",
+            "value": "8.05"
+        },
+        {
+            "descr": "Coil's minor radius",
+            "expr": "8.05",
+            "name": "Linear_Spiral_cst_coil_ri",
+            "value": "8.05"
+        },
+        {
+            "descr": "Coil's segmentation angle",
+            "expr": "14",
+            "name": "Linear_Spiral_cst_coil_phi",
+            "value": "14"
+        },
+        {
+            "descr": "Coil's Nr of turns",
+            "expr": "4.5",
+            "name": "Linear_Spiral_cst_coil_N",
+            "value": "4.5"
+        },
+        {
+            "descr": "Coil's Orientation: 0 clockwise, 1 anti-clockwise",
+            "expr": "0",
+            "name": "Linear_Spiral_cst_coil_orientation",
+            "value": "0"
+        },
+        {
+            "descr": "Coil segmentation: 1 = segmented, 0 = spline",
+            "expr": "0",
+            "name": "Linear_Spiral_cst_coil_segmentation",
+            "value": "0"
+        },
+        {
+            "expr": "12.9",
+            "name": "S",
+            "value": "12.9"
+        },
+        {
+            "expr": "1",
+            "name": "Wire_radius",
+            "value": "1"
+        },
+        {
+            "expr": "56.9/2",
+            "name": "GND",
+            "value": "28.45"
+        },
+        {
+            "expr": "1",
+            "name": "Coaxial_radius",
+            "value": "1"
+        },
+        {
+            "expr": "6.7",
+            "name": "Teflon_radius",
+            "value": "6.7"
+        }
+    ],
+    "version": 1
+}
